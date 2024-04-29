@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MenuLateral</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Motocicles Correcaminos</string>
+    <string name="nav_header_subtitle">correcaminos@motocicletas.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar sesión</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Accesorios</string>
+    <string name="menu_slideshow">Nosotros</string>
+
+    <string name="titulo">Motocicletas Correcaminos</string>
+    <string name="correo">Ingresa correo</string>
+    <string name="contrasena">Ingresa contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nosotros">En motociletas correcaminos sabemos lo importante que es contar con todo lo necesario para disfrutar la pasión
+     del motociclismo al máximo. \n\nMotocicletas Correcaminos surge precisamente de esa pasión por las motocicletas. SAbemos lo que es
+    salir a rodar, solos o en grupo; por eso ofrecemos la mayor seguridad para que el viaje sea placentero. \n\nEs por esa experiencia que en
+    Motocicletas Correcaminos nos preocupamos por ofrecerte solo lo mejor en accesorios, así como servicio y atención.</string>
+    <string name="detalle">Detalles de Accesorio</string>
+    <string name="descripcion">Descripción del producto: </string>
+    <string name="otro">Opcion Desplegable</string>
+    <string name="content">Content Description</string>
+</resources>
